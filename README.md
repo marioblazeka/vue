@@ -19,4 +19,7 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 i to je to
+
 da to je to
+
+stvarno je to to
